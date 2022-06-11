@@ -1,0 +1,115 @@
+body {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 80%;
+}
+
+h1 {
+  color: #596aca;
+  margin: 10px 20px 10px 80px;
+}
+#city-search {
+  border: 3px solid #5a6275;
+  width: 100%;
+  margin: 20px 20px;
+}
+
+h2 {
+  color: #596aca;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  margin: 40px 180px 10px 100px;
+}
+
+h3 {
+  color: #596aca;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px 100px;
+  padding: 0;
+}
+h4 {
+  color: #596aca;
+}
+.cloud-icon {
+  font-size: 100px;
+  margin: 0 30px;
+  color: black;
+}
+.current-temperature {
+  display: block;
+  font-size: 48px;
+  text-align: left;
+}
+
+h5 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #596aca;
+}
+.date {
+  font-size: 18px;
+  font-weight: 400;
+}
+.pic-weather {
+  font-size: 40px;
+}
+.day-temperature {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+  color: #596aca;
+}
+.night-temperature {
+  font-size: 24px;
+  margin: 0;
+  color: #596aca;
+}
+.today-weather {
+  width: 100%;
+}
+table {
+  width: 100%;
+  border-spacing: inherit;
+}
+
+.site-name {
+  color: #596aca;
+  font-size: 40px;
+  font-weight: 400;
+  padding: 10px 20px 10px 100px;
+  width: 20%;
+}
+.choose-city {
+  width: 60%;
+}
+button {
+  display: block;
+  text-align: left;
+}
+#cityName {
+  font-size: 40px;
+  border: 0;
+  background-color: #fff;
+  width: 20%;
+}
+.week-weather {
+  margin: 80px 0;
+}
+.today {
+  display: block;
+  margin: 0 auto;
+  text-align: left;
+}
+#place {
+  font-size: 20px;
+  background-color: #596aca;
+  padding: 2px 2px;
+  text-align: right;
+  margin: 20px 0;
+  color: #fff;
+  border-color: #fff;
+}
